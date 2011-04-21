@@ -1,0 +1,16 @@
+xkcd_viewer lets you view that beloved geeky comic strip xkcd from your command-line.
+I created this while I was experimenting with the HTML parser BeautifulSoup. So In order to
+run this program, you need to have BeautifulSoup installed. I frankly think if you're the kind
+of person who reads xkcd regularly and need to access it from the command-line, your technical skills 
+are more than enough to install BeautifulSoup for your system.
+
+The Usage of the program is fairly straightforward. Just download the files and run the 
+xkcd_gui.py script. And follow the on-screen Instructions. (There aren't many)
+
+Requirements:
+
+Python 2.X
+BeautifulSoup
+
+also this program required pygtk, which I believe is already included
+in your Python installation. (Tested in Ubuntu)
