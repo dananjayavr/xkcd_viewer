@@ -12,5 +12,5 @@ Requirements:
 Python 2.X
 BeautifulSoup
 
-also this program required pygtk, which I believe is already included
+also this program requires pygtk, which I believe is already included
 in your Python installation. (Tested in Ubuntu)
